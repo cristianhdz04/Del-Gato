@@ -1,5 +1,5 @@
 # Del Gato
-#### VIDEO DEMO : www.fuckyou.com
+#### VIDEO DEMO :
 #### Description :
   Del Gato is the spanish name for the world reknowend family game known around the world as "Tic Tac Toe", in english it is also known as the "Cat's game", but no one calls it that anymore.
   The goal of this "Tic Tac Toe" program / game is not just to allow you to enjoy the fun that comes in rubbing in the win in yoru friends, its for being able to have acesibility to it.
